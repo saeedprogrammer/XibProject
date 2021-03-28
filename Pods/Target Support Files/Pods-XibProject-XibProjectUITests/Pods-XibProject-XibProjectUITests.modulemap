@@ -1,0 +1,6 @@
+module Pods_XibProject_XibProjectUITests {
+  umbrella header "Pods-XibProject-XibProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

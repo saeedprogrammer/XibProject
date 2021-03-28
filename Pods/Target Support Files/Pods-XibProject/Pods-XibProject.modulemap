@@ -1,0 +1,6 @@
+module Pods_XibProject {
+  umbrella header "Pods-XibProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
